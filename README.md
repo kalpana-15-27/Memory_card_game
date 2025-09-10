@@ -1,5 +1,5 @@
 # Memory_card_game
-This is a game which improves our memory skills by recognising, built with HTML,CSS,Javascript
+This is a game which improves our memory skills by recognising tiles, built with HTML,CSS,Javascript
 ## LiveDemo
 [LIVE](https://kalpana-15-27.github.io/Memory_card_game/)
 ## Features
@@ -17,3 +17,7 @@ When all pairs are matched, the game automatically reshuffles for a new round.
 Uses Google Fonts, box shadows, rounded corners, and color themes for a modern look.
 ### User Interaction Handling:
 Prevents flipping more than two cards at once and disables interaction during animations.
+## Tech stack
+      •HTML
+      •CSS
+      •Javascript
