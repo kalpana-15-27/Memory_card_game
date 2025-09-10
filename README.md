@@ -1,7 +1,7 @@
 # Memory_card_game
 This is a game which improves our memory skills by recognising, built with HTML,CSS,Javascript
 ## LiveDemo
-[LIVE](http://127.0.0.1:5500/index.html)
+[LIVE](https://kalpana-15-27.github.io/Memory_card_game/)
 ## Features
 ### Card Flipping Animation:
 Clicking a card flips it to reveal its image, with smooth transitions and a shake animation for mismatches.
